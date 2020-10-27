@@ -1,6 +1,6 @@
 # Bank App Landing Page
 
-This site is based on [Next.js](https://nextjs.org) and [emotion](https://emotion.sh).
+This site is based on [React](https://reactjs.org) and [emotion](https://emotion.sh).
 
 To run locally, run `yarn install`, then `yarn start`, after that open https://localhost:3000.
 
